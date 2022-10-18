@@ -1,0 +1,22 @@
+{
+    "user": "ubuntu",
+    "password": " ",
+    "java": "8",
+    "hostname": "arm",
+    "pythonVersion": "3.6",
+    "hadoopVersion": "3.2",
+    "masterIP" :"141.148.203.74",
+    "masterIP1" :["141.148.203.74"
+    ],
+    "slaveIP" :[""
+    ],
+    "sparkVersion": "3.1",
+    "sparkCores": "2",
+    "sparkMemory": "2g",
+    "hive": "yes",
+    "airflow": "yes",
+    "postgres": "yes",
+    "mysql": "yes",
+    "mongodb": "yes",
+    "mssql": "yes"
+}
